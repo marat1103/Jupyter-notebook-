@@ -1,0 +1,53 @@
+# Data Science Notebook
+
+## Introduction
+This notebook is an overview of data science languages, libraries, tools, and basic arithmetic operations. It also includes a simple exercise on converting units and lists the objectives and author of this notebook.
+
+## Data Science Languages
+- Python
+- R
+- SQL
+- Julia
+- Scala
+
+## Data Science Libraries
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+- TensorFlow
+- Keras
+
+## Data Science Tools
+| Tool            | Description                                     |
+|-----------------|-------------------------------------------------|
+| Jupyter Notebook| Interactive computing environment               |
+| RStudio         | Integrated development environment for R        |
+| Apache Spark    | Unified analytics engine for big data processing|
+| Tableau         | Data visualization tool                         |
+
+## Arithmetic Expression Examples
+Below are examples of arithmetic expressions in Python.
+
+# Exercise 8: Multiply and add numbers
+result = (5 * 6) + 7
+result
+
+# Exercise 9: Convert minutes to hours
+minutes = 150
+hours = minutes / 60
+hours
+
+## Objectives
+- List common data science languages
+- List popular data science libraries
+- Provide examples of arithmetic operations
+- Convert units from minutes to hours
+- Share the notebook via GitHub
+
+## Author
+Marat Bassenov
+
+
+
+
